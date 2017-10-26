@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.hut.MainActivity">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:text="@string/AxsJCrk" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:textSize="12sp"
+            android:paddingBottom="10sp"
+            android:text="@string/copyRight"/>
+    </RelativeLayout>
+
+    <!---->
+    <!--DONE Disclaimer: Tech won't save your life!-->
+    <!--TODO 10 Essentials Intro-->
+    <!--TODO Hut info from website-->
+    <!--TODO Hut FAQs-->
+    <!--TODO How to get there- Jenny Creek, Hessie-Lost Lake routes Google map function & bread crumbs/go back feature)-->
+    <!---->
+    <!--TODO Read & store power info from USB port at hut-->
+    <!--TODO Good Hut User Rating System -->
+    <!--TODO Kilroy Was Here!-->
+    <!---->
+    <!--TODO Donations-->
+    <!--TODO Battery power saver function-->
+    <!---->
+    <!--TODO Cache emails to Hutmeister-->
+    <!--TODO Reservation calendar-->
+    <!---->
+    <!--TODO Q&A between hut users-->
+    <!--TODO Calendar event reminders-->
+    <!---->
+    <!--TODO Know Before You Go- CAIC & NWS forecasts, info, & alerts -->
+    <!--TODO Cell service locator- indicate direction & distance, signal strength-->
+    <!--TODO Leave No Trace Principles-->
+    <!---->
+    <!--TODO Start of Stay reminders-->
+    <!--TODO End of Stay reminders-->
+    <!---->
+
+</android.support.constraint.ConstraintLayout>
