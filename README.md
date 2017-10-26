@@ -1,5 +1,5 @@
 # Hut
-App being developed for Boulder Group of the CMC
+App being developed for Boulder Group of the CMC.
 App version of Årestua Hut web pages
 
 http://wwwDOTcmcboulderDOTorg/cabin-arestuaDOThtml
